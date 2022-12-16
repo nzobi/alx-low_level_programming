@@ -1,4 +1,3 @@
-triangle.c
 #include "main.h"
 
 /**

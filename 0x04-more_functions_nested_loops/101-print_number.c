@@ -1,4 +1,3 @@
-number.c
 #include "main.h"
 
 /**
